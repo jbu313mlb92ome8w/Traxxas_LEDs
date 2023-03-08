@@ -4,4 +4,4 @@ Under Construction. Project mostly works. Some stuttering in the LED patterns. S
 ## Hardware
 - LED controller is Teensy 4.0
 - Traxxas 6533 reciever, stock for X-Maxx
-- Traxxas 6530 transmitter, upgrade for X-Maxx. Stock 6528 will NOT work for this.
+- Traxxas 6530 transmitter, upgrade for X-Maxx. Stock 6528 will NOT work for this, not enough channels.
